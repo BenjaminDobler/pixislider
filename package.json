@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gsap": "^3.5.1",
+    "math-fit": "^1.0.1",
+    "pixi.js": "^5.3.3"
+  }
+}
